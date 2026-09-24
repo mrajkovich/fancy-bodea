@@ -31,7 +31,9 @@
       "product-recommendations",
       "product-highlights",
       "quiz-router",
-      "quiz-router-mccs"
+      "quiz-router-mccs",
+      "hero-v2",
+      "commerce-order-comments"
     ]
   },
   {
